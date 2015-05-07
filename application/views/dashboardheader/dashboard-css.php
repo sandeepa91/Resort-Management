@@ -1,0 +1,1 @@
+<link href="<?php echo base_url(); ?>css/dashboard/css/bootstrap.min.css" rel="stylesheet" />
